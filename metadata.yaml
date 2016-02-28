@@ -1,0 +1,48 @@
+_repo: Culture-and-Anarchy_4212
+creator:
+  author:
+    agent_name: Arnold, Matthew
+    birthdate: 1822
+    deathdate: 1888
+    gutenberg_agent_id: '1401'
+    url: http://www.gutenberg.org/2009/agents/1401
+    wikipedia: http://en.wikipedia.org/wiki/Matthew_Arnold
+description: "Culture and Anarchy is a series of periodical essays by Matthew Arnold,\
+  \ first published in Cornhill Magazine 1867-68 and collected as a book in 1869.\
+  \ The preface was added in 1875.\nArnold's famous piece of writing on culture established\
+  \ his High Victorian cultural agenda which remained dominant in debate from the\
+  \ 1860s until the 1950s.\nAccording to his view advanced in the book, \"Culture\
+  \ [...] is a study of perfection\". He further wrote that: \"[Culture] seeks to\
+  \ do away with classes; to make the best that has been thought and known in the\
+  \ world current everywhere; to make all men live in an atmosphere of sweetness and\
+  \ light [...]\".\nHis often quoted phrase \"[culture is] the best which has been\
+  \ thought and said\" comes from the Preface to Culture and Anarchy:\nThe whole scope\
+  \ of the essay is to recommend culture as the great help out of our present difficulties;\
+  \ culture being a pursuit of our total perfection by means of getting to know, on\
+  \ all the matters which most concern us, the best which has been thought and said\
+  \ in the world, and, through this knowledge, turning a stream of fresh and free\
+  \ thought upon our stock notions and habits, which we now follow staunchly but mechanically,\
+  \ vainly imagining that there is a virtue in following them staunchly which makes\
+  \ up for the mischief of following them mechanically.\nThe book contains most of\
+  \ the terms - culture, sweetness and light, Barbarian, Philistine, Hebraism, and\
+  \ many others - which are more associated with Arnold's work influence.\n^ Robert\
+  \ H. Super, Culture and Anarchy with Friendship's Garland and Some Literary Essays,\
+  \ Volume V of The Complete Works of Matthew Arnold, The University of Michigan Press,\
+  \ 1965.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2003-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4212'
+  wikidata: Q5193480
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Social conditions -- 19th century'
+- !lcc 'HN'
+- !lcsh 'Culture'
+title: Culture and Anarchy
+url: http://www.gutenberg.org/ebooks/4212
+wikipedia:
+- https://en.wikipedia.org/wiki/Culture_and_Anarchy
