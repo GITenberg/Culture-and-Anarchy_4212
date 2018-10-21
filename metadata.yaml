@@ -1,5 +1,5 @@
 _repo: Culture-and-Anarchy_4212
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -48,6 +48,7 @@ subjects:
 - !lcsh 'Great Britain -- Social conditions -- 19th century'
 - !lcc 'HN'
 - !lcsh 'Culture'
+- GITenberg
 title: Culture and Anarchy
 url: http://www.gutenberg.org/ebooks/4212
 wikipedia:
